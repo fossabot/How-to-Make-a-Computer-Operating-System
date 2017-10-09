@@ -20,3 +20,8 @@ You can follow me on Twitter [@SamyPesse](https://twitter.com/SamyPesse) or supp
 The goal is to build a very simple UNIX-based operating system in C++, not just a "proof-of-concept". The OS should be able to boot, start a userland shell, and be extensible.
 
 ![Screen](./preview.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHow-to-Make-a-Computer-Operating-System.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHow-to-Make-a-Computer-Operating-System?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHow-to-Make-a-Computer-Operating-System.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHow-to-Make-a-Computer-Operating-System?ref=badge_large)
